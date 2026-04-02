@@ -2,7 +2,7 @@
   "id": "flixhq-movies",
   "name": "FlixHQ Movies & TV",
   "version": "3.11.0",
-  "manifestVersion": "2.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/avax-dev/movie-streaming/refs/heads/main/flixhq/manifest.json",
   "language": "typescript",
   "type": "movie-streaming",
   "description": "Scrapes FlixHQ for movies and TV shows. Supports both findMovieStreams and findTvShowStreams methods.",
